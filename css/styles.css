@@ -1,0 +1,31 @@
+body
+{ font-family: 'Urbanist', sans-serif;
+
+    background-color: #f7fbfc;
+}
+
+hr
+{ width: 3%; border-width: 7px;
+    border-style: dotted none none;  border-color: #40514e;
+}
+
+h1
+{
+    color: #40514e;
+}
+
+h2
+{
+    color: #11999e;
+}
+
+h3
+{
+    color: #11999e;
+}
+
+h4
+{ font-size: 18px;
+
+    color: #11999e;
+}
